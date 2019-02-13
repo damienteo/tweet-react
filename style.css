@@ -1,3 +1,57 @@
 * {
 	font-family: Arial, sans-serif;
 }
+
+.tweetBorder {
+	width: 50%;
+}
+
+.imageSide {
+	display: inline-block;
+}
+
+.contentSide {
+	display: inline-block;
+	width: 80%;
+}
+
+.profilePicture {
+	border-radius: 50%;
+	height: 60px;
+	width: auto;
+	margin: 10px;
+}
+
+.profileName {
+	font-weight: bold;
+	display: inline-block;
+}
+
+.tweetHandle {
+	font-color: gray;
+	font-size: small;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.tweetTime {
+	font-color: gray;
+	font-size: small;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.retweets {
+	display: inline-block;
+}
+
+.symbol {
+	height: 15px;
+	width: auto;
+}
+
+.favorites {
+	display: inline-block;
+}
+
+
